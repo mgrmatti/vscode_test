@@ -1,1 +1,2 @@
 To jest tekst w pliku.
+OK, zaczynamy tutaj historię.
